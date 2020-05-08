@@ -1,0 +1,19 @@
+:root {
+}
+
+body {
+  margin: 0;
+}
+
+.navbar {
+  position: sticky;
+  height: 60px;
+  background-color: grey;
+  border-bottom: 1px solid blue;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
